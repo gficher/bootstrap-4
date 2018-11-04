@@ -28,13 +28,13 @@ $.fn.datetimepicker.Constructor.Default = $.extend({}, $.fn.datetimepicker.Const
             icons: {
                 time: 'far fa-clock',
                 date: 'far fa-calendar',
-                up: 'far fa-arrow-up',
-                down: 'far fa-arrow-down',
-                previous: 'far fa-chevron-left',
-                next: 'far fa-chevron-right',
-                today: 'far fa-calendar-check-o',
-                clear: 'far fa-trash',
-                close: 'far fa-times'
+                up: 'fas fa-arrow-up',
+                down: 'fas fa-arrow-down',
+                previous: 'fas fa-chevron-left',
+                next: 'fas fa-chevron-right',
+                today: 'far fa-calendar-check',
+                clear: 'far fa-trash-alt',
+                close: 'fas fa-times'
             } });
 ```
 
